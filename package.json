@@ -21,15 +21,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+github.com:AlexZeitler/decision-table-markdown.git"
+    "url": "git+https://github.com:AlexZeitler/decision-table-markdown.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "github.com:AlexZeitler/decision-table-markdown/issues"
+    "url": "https://github.com:AlexZeitler/decision-table-markdown/issues"
   },
-  "homepage": "github.com:AlexZeitler/decision-table-markdown#readme",
+  "homepage": "https://github.com:AlexZeitler/decision-table-markdown#readme",
   "devDependencies": {
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-conventional": "8.3.4",
