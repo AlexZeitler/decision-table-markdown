@@ -1,4 +1,4 @@
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org) [![codecov](https://codecov.io/gh/AlexZeitler/decision-table-markdown/branch/master/graph/badge.svg)](https://codecov.io/gh/AlexZeitler/decision-table-markdown)
 
 # decision-table-markdown
 
