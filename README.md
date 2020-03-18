@@ -52,6 +52,11 @@ Displayed as Markdown:
 
 Just fill your condition names into the headers and the expected result into the last column.
 
+## ToDo
+
+- [ ] Create a npm installable CLI
+- [ ] Get condition headers from CLI
+
 ## Want to help?
 
 This project is just getting off the ground and could use some help with cleaning things up and refactoring.
