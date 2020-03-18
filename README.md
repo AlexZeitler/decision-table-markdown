@@ -6,12 +6,18 @@ This little helper is inspired by the blog post ["DECISION TABLES"](https://www.
 
 `decision-table-markdown` allows you to create a decision table for a given amount of conditions (`true`/`false`).
 
-Right now, you have to change the value of `condition` in `indext.ts` to change the output (maybe I'll find some time to improve this into a CLI based on the [CLI best practies](https://github.com/lirantal/nodejs-cli-apps-best-practices) by Liran Tal - or somebody sends a PR ;))
+Right now, you have to clone this repository to change the output (maybe I'll find some time to improve this into a CLI based on the [CLI best practies](https://github.com/lirantal/nodejs-cli-apps-best-practices) by Liran Tal - or somebody sends a PR ;))
 
 ## Creating a table
 
 ```bash
-npx ts-node src/index.ts
+npx ts-node src/index.ts <numberOfConditions>
+```
+
+e.g.
+
+```bash
+npx ts-node src/index.ts 3
 ```
 
 ### Output
